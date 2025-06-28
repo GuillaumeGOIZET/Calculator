@@ -1,5 +1,5 @@
 # **🏠 Calculatrice Prêt Immobilier**  
-Une calculatrice moderne et intuitive pour simuler les mensualités et générer le tableau d'amortissement complet d'un prêt immobilier.  
+Une calculatrice moderne et intuitive pour simuler les mensualités et générer le tableau d'amortissement complet d'un prêt immobilier :  
 ![Screenshot HomePage Calculator](./images/Screenshot_HomePage_Calculator.png)  
 ![Screenshot ArrayPage Calculator](./images/Screenshot_ArrayPage_Calculator.png)  
 ## **✨ Fonctionnalités**  
@@ -21,14 +21,15 @@ Aucun prérequis particulier ! Le projet fonctionne directement dans un navigate
 * Ou utilisez un serveur local (Live Server, XAMPP, etc.)  
 ## **📁 Structure du projet**  
 calculatrice-pret-immobilier/  
-├── index.html              # Page principale  
-├── style.css              # Styles CSS  
+├── index.html              (Page principale)  
+├── style.css               (Styles CSS)  
 ├── scripts/  
-│   └── main.js            # Logique JavaScript  
+│   └── main.js             (Logique JavaScript)  
 ├── images/  
-│   └── logo_microlead.png # Logo de l'entreprise  
-│   └── Screenshot_HomePage_Calculator.png # Capture d'écran de la page d'accueil  
-└── README.md              # Documentation  
+│   └── logo_microlead.png  (Logo de l'entreprise)  
+│   └── Screenshot_HomePage_Calculator.png (Capture d'écran de la page d'accueil)  
+│   └── Screenshot_ArrayPage_Calculator.png (Capture d'écran de la page du tableau d'amortissement)  
+└── README.md               (Documentation)  
 ## **🎯 Utilisation**  
 1. **Saisir les informations du prêt :**  
 * Montant emprunté (en euros)
@@ -109,6 +110,6 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 ## **📞 Support**  
 Pour toute question ou suggestion :  
 * Ouvrez une [issue](https://github.com/GuillaumeGOIZET/Calculator/issues)
-* Contactez-moi à : [goizetg@gmail.com](mailto:goizetg@gmail.com)    
+* Contactez-moi à : [goizetg@gmail.com](mailto:goizetg@gmail.com)  
 ⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !  
 🚨 **Disclaimer** : Les calculs sont fournis à titre indicatif. Consultez un professionnel pour des conseils financiers détaillés.
