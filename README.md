@@ -1,6 +1,7 @@
 # **🏠 Calculatrice Prêt Immobilier**  
 Une calculatrice moderne et intuitive pour simuler les mensualités et générer le tableau d'amortissement complet d'un prêt immobilier.  
 ![Screenshot HomePage Calculator](./images/Screenshot_HomePage_Calculator.png)  
+![Screenshot ArrayPage Calculator](./images/Screenshot_ArrayPage_Calculator.png)  
 ## **✨ Fonctionnalités**  
 * **Calcul automatique** des mensualités et intérêts
 * **Tableau d'amortissement complet** mois par mois
@@ -12,7 +13,7 @@ Une calculatrice moderne et intuitive pour simuler les mensualités et générer
 ## **📋 Prérequis**  
 Aucun prérequis particulier ! Le projet fonctionne directement dans un navigateur web moderne.  
 ## **🛠️ Installation**  
-1. **Cloner le repository**
+1. **Cloner le repository**  
 ``` bashgit clone https://github.com/GuillaumeGOIZET/Calculator ```  
 ``` cd calculatrice-pret-immobilier ```  
 2. **Ouvrir le projet**  
@@ -65,8 +66,7 @@ La calculatrice utilise les formules financières standard :
 Dans ``` style.css ```, ajustez les variables de couleur :  
 ``` css ```  
 _``` /* Couleurs principales */ ```_  
-``` --primary-blue: #2c5aa0; ```  
-``` --accent-blue: #4a9eff; ```  
+``` --primary-blue: #234B68; ```  
 ``` --background: #f8faff; ```  
 ### **Ajouter des champs**  
 1. Ajoutez le champ HTML dans ``` index.html ```
@@ -110,4 +110,5 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 Pour toute question ou suggestion :  
 * Ouvrez une [issue](https://github.com/GuillaumeGOIZET/Calculator/issues)
 * Contactez-moi à : [goizetg@gmail.com](mailto:goizetg@gmail.com)    
-⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !
+⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !  
+🚨 **Disclaimer** : Les calculs sont fournis à titre indicatif. Consultez un professionnel pour des conseils financiers détaillés.
