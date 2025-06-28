@@ -104,12 +104,12 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 ## **👥 Auteurs**
 * **Guillaume GOIZET** - *Développement initial* - [My GitHub](https://github.com/GuillaumeGOIZET)  
 ## **🙏 Remerciements**  
-* <u>jsPDF</u> pour la génération PDF
-* <u>Google Fonts</u> pour la typographie
-* <u>Microlead</u> & <u>@kevinniel</u> pour le design et les spécifications  
+* **jsPDF** pour la génération PDF
+* **Google Fonts** pour la typographie
+* **Microlead** & **@kevinniel** pour le design et les spécifications  
 ## **📞 Support**  
 Pour toute question ou suggestion :  
 * Ouvrez une [issue](https://github.com/GuillaumeGOIZET/Calculator/issues)
 * Contactez-moi à : [goizetg@gmail.com](mailto:goizetg@gmail.com)  
-⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !  
-🚨 **Disclaimer** : Les calculs sont fournis à titre indicatif. Consultez un professionnel pour des conseils financiers détaillés.
+>⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !  
+>🚨 **Disclaimer** : Les calculs sont fournis à titre indicatif. Consultez un professionnel pour des conseils financiers détaillés.
