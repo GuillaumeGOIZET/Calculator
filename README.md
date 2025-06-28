@@ -1,6 +1,6 @@
 # **🏠 Calculatrice Prêt Immobilier**  
 Une calculatrice moderne et intuitive pour simuler les mensualités et générer le tableau d'amortissement complet d'un prêt immobilier.  
-![Screenshot HomePage Calculator](C:\Users\MD33\Desktop\MDS\Cours\Dev\Calculatrice\images\Screenshot_HomePage_Calculator.png)  
+![Screenshot HomePage Calculator](./images/Screenshot_HomePage_Calculator.png)  
 ## **✨ Fonctionnalités**  
 * **Calcul automatique** des mensualités et intérêts
 * **Tableau d'amortissement complet** mois par mois
@@ -8,25 +8,25 @@ Une calculatrice moderne et intuitive pour simuler les mensualités et générer
 * **Interface moderne** avec design responsive
 * **Validation des données** en temps réel  
 ## **🚀 Démonstration**  
-Voir la démo en ligne  
-**📋 Prérequis**  
+[Voir la démo en ligne](https://www.youtube.com/watch?v=jdkSxWxZiFk)  
+## **📋 Prérequis**  
 Aucun prérequis particulier ! Le projet fonctionne directement dans un navigateur web moderne.  
 ## **🛠️ Installation**  
 1. **Cloner le repository**
-``` bashgit clone https://github.com/GuillaumeGOIZET/Calculator ```
+``` bashgit clone https://github.com/GuillaumeGOIZET/Calculator ```  
 ``` cd calculatrice-pret-immobilier ```  
 2. **Ouvrir le projet**  
 * Ouvrez le fichier ``` index.html ``` dans votre navigateur
 * Ou utilisez un serveur local (Live Server, XAMPP, etc.)  
 ## **📁 Structure du projet**  
-calculatrice-pret-immobilier/
-├── index.html              # Page principale
-├── style.css              # Styles CSS
-├── scripts/
-│   └── main.js            # Logique JavaScript
-├── images/
-│   └── logo_microlead.png # Logo de l'entreprise
-│   └── Screenshot_HomePage_Calculator.png # Capture d'écran de la page d'accueil 
+calculatrice-pret-immobilier/  
+├── index.html              # Page principale  
+├── style.css              # Styles CSS  
+├── scripts/  
+│   └── main.js            # Logique JavaScript  
+├── images/  
+│   └── logo_microlead.png # Logo de l'entreprise  
+│   └── Screenshot_HomePage_Calculator.png # Capture d'écran de la page d'accueil  
 └── README.md              # Documentation  
 ## **🎯 Utilisation**  
 1. **Saisir les informations du prêt :**  
@@ -64,7 +64,7 @@ La calculatrice utilise les formules financières standard :
 ### **Modifier les couleurs**  
 Dans ``` style.css ```, ajustez les variables de couleur :  
 ``` css ```  
-``` /* Couleurs principales */ ```  
+_``` /* Couleurs principales */ ```_  
 ``` --primary-blue: #2c5aa0; ```  
 ``` --accent-blue: #4a9eff; ```  
 ``` --background: #f8faff; ```  
@@ -94,20 +94,20 @@ Modifiez les styles dans la fonction ```autoTable() ``` :
 ## **🤝 Contribution**  
 Les contributions sont les bienvenues ! Pour contribuer :  
 1. Fork le projet
-2. Créez une branche feature ``` (git checkout -b feature/nouvelle-fonctionnalite) ```
-3. Committez vos changements ``` (git commit -m 'Ajout nouvelle fonctionnalité') ```
-4. Push sur la branche ``` (git push origin feature/nouvelle-fonctionnalite) ```
+2. Créez une branche feature (``` git checkout -b feature/nouvelle-fonctionnalite ```)
+3. Committez vos changements (``` git commit -m 'Ajout nouvelle fonctionnalité' ```)
+4. Push sur la branche (``` git push origin feature/nouvelle-fonctionnalite ```)
 5. Ouvrez une Pull Request  
 ## **📄 Licence**  
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 ## **👥 Auteurs**
 * **Guillaume GOIZET** - *Développement initial* - [My GitHub](https://github.com/GuillaumeGOIZET)  
 ## **🙏 Remerciements**  
-* *jsPDF* pour la génération PDF
-* *Google Fonts* pour la typographie
-* *Microlead* & *@kevinniel* pour le design et les spécifications  
+* <u>jsPDF</u> pour la génération PDF
+* <u>Google Fonts</u> pour la typographie
+* <u>Microlead</u> & <u>@kevinniel</u> pour le design et les spécifications  
 ## **📞 Support**  
 Pour toute question ou suggestion :  
 * Ouvrez une [issue](https://github.com/GuillaumeGOIZET/Calculator/issues)
-* Contactez-moi à : [goizetg@gmail.com](mailto:goizetg@gmail.com)  
+* Contactez-moi à : [goizetg@gmail.com](mailto:goizetg@gmail.com)    
 ⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !
