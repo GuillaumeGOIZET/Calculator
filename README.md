@@ -99,9 +99,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 3. Committez vos changements (``` git commit -m 'Ajout nouvelle fonctionnalité' ```)
 4. Push sur la branche (``` git push origin feature/nouvelle-fonctionnalite ```)
 5. Ouvrez une Pull Request  
-## **📄 Licence**  
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-## **👥 Auteurs**
+## **👥 Auteurs**  
 * **Guillaume GOIZET** - *Développement initial* - [My GitHub](https://github.com/GuillaumeGOIZET)  
 ## **🙏 Remerciements**  
 * **jsPDF** pour la génération PDF
