@@ -104,7 +104,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 ## **🙏 Remerciements**  
 * **jsPDF** pour la génération PDF
 * **Google Fonts** pour la typographie
-* **Microlead** & **@kevinniel** pour le design et les spécifications  
+* [Microlead](https://microlead.fr/) & [@kevinniel](https://github.com/kevinniel) pour le design et les spécifications  
 ## **📞 Support**  
 Pour toute question ou suggestion :  
 * Ouvrez une [issue](https://github.com/GuillaumeGOIZET/Calculator/issues)
